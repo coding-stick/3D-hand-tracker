@@ -1,6 +1,6 @@
-# 🧊 Hand-Controlled 3D Cube (Tony Stark-Style Interface)
+# 🧊 Hand-Controlled 3D Interface
 # Mediapipe works on Python 3.11 or before, not 3.12!!
-This project uses **Python**, **OpenCV**, and **MediaPipe** to read hand gestures from a webcam and control a **3D cube** rendered with **PyOpenGL**. Inspired by Tony Stark's futuristic interface, the user can rotate, zoom, and orbit the camera around a 3D object using just hand movement.
+This project uses **Python**, **OpenCV**, and **MediaPipe** to read hand gestures from a webcam and control a **3D cube** rendered with **PyOpenGL**. Inspired by the Tony Stark meme, the user can rotate, zoom, and orbit the camera around a 3D object using just hand movement.
 
 
 ---
