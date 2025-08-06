@@ -8,6 +8,7 @@ This project uses **Python**, **OpenCV**, and **MediaPipe** to read hand gesture
 ## RUNNING
 - Install these libraries: pygame, pyopengl, opencv-python, numpy, mediapipe
 - Just run three.py file
+- Additionally, run vision.py to see the program in action
 
 ---
 
